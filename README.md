@@ -1,2 +1,2 @@
 # recognition_dataset
-人脸识别数据集 方便colab应用
+人脸识别数据集 方便colab调用
